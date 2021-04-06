@@ -1,5 +1,5 @@
 # Twilio Whatsapp dialogflow 
-Example showing how to integrate, dialogflow with twilio.
+Example showing how to integrate, dialogflow with twilio. For a complete tutorial read this [medium article](https://breathingcyborg.medium.com/integrate-dialogflow-with-whatsapp-802fa76576e5).
 
 ## Setup
 * Create dialogflow es agent.
